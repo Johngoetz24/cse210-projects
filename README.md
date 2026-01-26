@@ -1,5 +1,5 @@
 # cse210-student-template
-This is the starter code for students in CSE 210.
+OHHHHHH I totally didn't realise this was a thing. Sorry its been a long time since Ive used git hub! Everything should be up to date and pushed correctly to git hub.. I think.
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
