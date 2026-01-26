@@ -10,9 +10,12 @@ class Program
     }
     static int Collect_Random_Number()
     {
-        Console.Write("Please enter in a Magic Number:");
-        string userInput = Console.ReadLine();
-        int number = int.Parse(userInput);
+        // Console.Write("Please enter in a Magic Number:");
+        // string userInput = Console.ReadLine();
+        // int number = int.Parse(userInput);
+        // return number;
+        Random randomGenerator = new Random();
+        int number = randomGenerator.Next(1, 101);
         return number;
     }
     static void Game_Play(int Magic_Number)
