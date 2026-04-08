@@ -1,3 +1,6 @@
+Woody|Banana St|Westfield|KY|USA|Item98,119,2,ID98;Item22,67,1,ID775;Item40,63,2,ID97
+Woody|Banana St|Westfield|KY|Canada|Item79,95,4,ID774;Item62,170,4,ID473
 Hank|Fire St|Hollywood|California|USA|computer,2999,2,ID3882;mouse,30,2,ID483;microphone,60,1,Id583
 John Smith|123 Main St|Boise|ID|USA|Laptop,800,1,A101;Mouse,25,2,B202
 Jack|Temple Rd|Gridley|CA|United States|iphone,999,5,ID2413
+John|Fun|banana|AB|Canada|computer,9999,2,ID1234
