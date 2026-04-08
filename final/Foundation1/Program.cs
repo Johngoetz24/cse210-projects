@@ -95,7 +95,7 @@ class Program
         switch (choice)
         {
             case "1":
-                if (!LoadFromFile("videos.txt", videos))
+                if (!LoadFromFile("Videos.txt", videos))
                 {
                     Console.WriteLine("Falling back to sample data...");
                     CreateSampleData(videos);
