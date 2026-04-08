@@ -1,0 +1,5 @@
+145
+Simple|Read Book|Read one book per month|5|False|
+Eternal|Daily Prayer|Pray every day|10
+Checklist|Workout|Exercise 3 times a week|10|1|3|50|
+BadHabit|Eat Junk Food|Avoid junk food|5|3
